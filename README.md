@@ -76,7 +76,7 @@ Because the CODI requirements differed significantly from the CHORDS governance 
 
 Through a structured process the CODI implementing sites developed the [CODI Master Sharing and Use Agreement (MSUA)](CODI_CHORDS_MSUA.pdf) that defines CODI data governenace, including how CODI relates to and depends on existing CHORDS governance infrastructure. The CODI MSUA is based largely on the [Master Reliance Agreement](REACHNET_MRA_Template_11.26.18.pdf) used by REACHnet to support data exchange. 
 
-To support community partner participation, [Memoranda of Understanding](CODI_MOU_template.pdf) were created with community partners to define a technical partner would facilitate project participation by completeing required technical tasks that were beyond the technical capacity of each organization. 
+To support community partner participation, [Memoranda of Understanding](MOU_template.pdf) were created with community partners to define a technical partner would facilitate project participation by completeing required technical tasks that were beyond the technical capacity of each organization. 
 
 <a name="roles"></a>
 ### B. Roles and Responsibilities
