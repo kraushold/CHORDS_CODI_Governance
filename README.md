@@ -13,7 +13,7 @@ II. [ Local Specifications for CODI@CHORDS ](#localspecs)
  B. [ Roles and Responsibilities ](#roles)  
  
 <a name="codi-chords"></a>
-# CODI@CHORDS
+# CHORDS_CODI_Governance
 This repository is a place to share governance information related to the CHORDS implementation of the Childhood Obesity Data Initiative (CODI). The local implementation of CODI functionalities into the CHORDS network infractructure is referred to in this document as CODI@CHORDS. CODI functionalities include: 
 1. Integration of community-collected data into a distributed data network (DDN) of electronic health records (EHR)
 2. Privacy-preserving record linkage (PPRL)
