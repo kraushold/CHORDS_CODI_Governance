@@ -2,7 +2,7 @@
 
 
 ##### Table of Contents
-[ CODI@CHORDS ](#codi-chords)
+[ CHORDS_CODI_Governance ](#codi-chords)
 
 I. [ Introduction and Relationship to CODI Implementation Guides ](#intro)  
 A. [ Childhood Obesity Data Initiative ](#codi)  
