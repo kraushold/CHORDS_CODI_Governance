@@ -72,9 +72,9 @@ Slides and other related implementation materials are posted in the IWG folder o
 ## II. Local Specifications for CODI@CHORDS
 <a name="gov"></a>
 ### A. CODI@CHORDS Governance
-Because the CODI requirements differed significantly from the CHORDS governance processes, a complementary approach to data governance was required. A business process analysis was conducted to gather requirements for the CODI technical solution and governance infrastructure. The [final report](CODI Business Process Analysis Report_FINAL.pdf) defining and summarizing those requirements is availble in this repository.
+Because the CODI requirements differed significantly from the CHORDS governance processes, a complementary approach to data governance was required. A business process analysis was conducted to gather requirements for the CODI technical solution and governance infrastructure. The [final report](CODI_BPA_Report_FINAL.pdf) defining and summarizing those requirements is availble in this repository.
 
-Through a structured process the CODI implementing sites developed the [CODI Master Sharing and Use Agreement (MSUA)](CODI_CHORDS_MSUA.pdf) that defines CODI data governenace, including how CODI relates to and depends on existing CHORDS governance infrastructure. The CODI MSUA is based largely on the [Master Reliance Agreement](REACHNET Master Reliance Agreement_Template_11.26.18.pdf) used by REACHnet to support data exchange. 
+Through a structured process the CODI implementing sites developed the [CODI Master Sharing and Use Agreement (MSUA)](CODI_CHORDS_MSUA.pdf) that defines CODI data governenace, including how CODI relates to and depends on existing CHORDS governance infrastructure. The CODI MSUA is based largely on the [Master Reliance Agreement](REACHNET_MRA_Template_11.26.18.pdf) used by REACHnet to support data exchange. 
 
 To support community partner participation, [Memoranda of Understanding](CODI_MOU_template.pdf) were created with community partners to define a technical partner would facilitate project participation by completeing required technical tasks that were beyond the technical capacity of each organization. 
 
